@@ -9,7 +9,7 @@ custom.set_appearance_mode("dark")
 custom.set_default_color_theme("green")
 win.geometry("600x500")
 win.title("Transcript Generator")
-win.iconbitmap(r"assets\iconimage.ico")
+win.iconbitmap(r"iconimage.ico")
 win.resizable(False, False)
 
 input_box = custom.CTkEntry(win, width=300, height=80
@@ -50,7 +50,7 @@ Immortal
 Shaurya_Bhai, and''')
 Special_Thanks.place(x=420,y=270)
 
-image = custom.CTkImage(dark_image=Image.open(r"assets\ujjwal.png"),size=(60,60))
+image = custom.CTkImage(dark_image=Image.open(r"ujjwal.png"),size=(60,60))
 ujjwal_Label = custom.CTkLabel(win, image=image, text="Ujjwal Bhai",compound="top")
 ujjwal_Label.place(x=430,y=340)
 
