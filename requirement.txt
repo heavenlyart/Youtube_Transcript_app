@@ -1,0 +1,4 @@
+pyinstaller
+pyperclip
+customtkinter
+youtube_transcript_api
