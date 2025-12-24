@@ -22,3 +22,16 @@ pip install -r requirements.txt
 ```bash
 python Main.py
 ```
+### File Structure
+```├── assets/
+│   ├── iconimage.ico
+│   └── ujjwal.png
+├── Docs/
+│   └── Contribution.md
+├── iconimage.ico
+├── LICENSE
+├── main.py
+├── README.md
+├── requirement.txt
+└── ujjwal.png
+```
