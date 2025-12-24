@@ -13,3 +13,12 @@ This is a app created in python that can be used to Generate Transcript of a you
 ```bash
 pip install -r requirements.txt
 ```
+### Running the Application
+
+1. Clone this repository to your local machine.
+2. Navigate to this folder in your terminal.
+3. Run the application:
+
+```bash
+python Main.py
+```
